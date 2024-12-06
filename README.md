@@ -122,6 +122,10 @@ auth-mini-project/
 1. Use the "Logout" button on the sidebar to end the session.
 
 ---
+Images:
+![image](https://github.com/user-attachments/assets/38f1e796-4f9e-44c1-9a6c-95c1e4387998)
+
+---
 
 ### **Additional Notes**
 1. The project uses a temporary in-memory database (`users_db`) for simplicity. You can replace this with a real database for production use.
@@ -135,5 +139,4 @@ Feel free to submit pull requests or open issues for any suggestions or bug fixe
 
 ---
 
-### **License**
 Created by Harsh
